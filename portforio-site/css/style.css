@@ -1,0 +1,71 @@
+html {
+    font-size: 100%;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #444;
+    color: #fcfcfc;
+    font-family: "Jost", "Noto Sans JP", sans-serif;
+}
+
+h2 {
+    font-size: 2.4rem;
+}
+
+p {
+    font-size: 1rem;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+    
+}
+
+li a {
+    color: #fcfcfc;
+    padding: 0 15px;
+    text-decoration: none;
+    
+    font-size: 1rem;
+}
+
+#header {
+    padding: 0 4%;
+}
+
+.sec-title {
+    text-align: center;
+}
+
+.container {
+    max-width: 1440px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.content {
+    margin: 30px 0;
+}
+
+
+.icon-container  {
+    text-align: center;
+    width: 45%;
+}
+
+i {
+    color: #ec3f6d;
+    font-size: 3rem;
+}
+
+.skills-icon {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
